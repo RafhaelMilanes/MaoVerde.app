@@ -1,0 +1,5 @@
+export * from './SplashScreen'
+export * from './Home'
+export * from './Detaill'
+export * from './Favorites'
+export * from './Search'
